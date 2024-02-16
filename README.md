@@ -1,0 +1,1 @@
+# Leetcode_Q1832_CheckiftheSentenceIsPangram_Py
